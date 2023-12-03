@@ -1,6 +1,6 @@
 <div align=center>
 
-  # ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=alswla's%20Github&fontSize=80)  
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=alswla's%20Github&animation=twinkling&fontSize=80)  
   
   <h3 align=center>👩‍💻 What I've been learning...📚</h3>
   
