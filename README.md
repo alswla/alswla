@@ -18,7 +18,7 @@
   
   <h3 align=center> ✍️ TIL </h3>
 
-  [![Notion Badge](https://img.shields.io/badge//Notion-333333?style=flat&logo=Notion&logoColor=white&link==https://chloehan.notion.site/My-momentum-e7b0fcf58fc643539f83be7ff2a43078?pvs=4)](https://chloehan.notion.site/My-momentum-e7b0fcf58fc643539f83be7ff2a43078?pvs=4)
+  [![Notion Badge](https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=white&link==https://chloehan.notion.site/My-momentum-e7b0fcf58fc643539f83be7ff2a43078?pvs=4)](https://chloehan.notion.site/My-momentum-e7b0fcf58fc643539f83be7ff2a43078?pvs=4)
 
   <h3 align=center>📥 Contact </h3>
   
