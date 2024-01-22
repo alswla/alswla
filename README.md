@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB%20&%20Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-
+  <br>
+  <img src="https://img.shields.io/badge/Vitest-%2344A833.svg?style=for-the-badge&logoColor=white"
   
   <h3 align=center> ✍️ TIL </h3>
 
