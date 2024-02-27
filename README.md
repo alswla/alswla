@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Dart&logoColor=&white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/FFmpeg-000?style=flat-square&logo&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/sharp-99CC00?style=flat-square&logo=sharp&logoColor=white">
