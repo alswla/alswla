@@ -7,8 +7,8 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 
 ### Contacts
 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
-- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
 
 
 ### Tools and Skills
