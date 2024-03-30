@@ -1,12 +1,16 @@
 <img width="600" height="auto" alt="banner" src="https://github.com/alswla/alswla/assets/133668286/2db1cd04-1542-45e1-bc18-5cf6637af767">
-
 <br><br>
-
 유저의 입장에서 항상 고민하며, UX를 개선하기 위해 디테일 하나도 놓치지 않는 개발자가 되고 싶습니다.</br>
 사용자의 기대를 단순히 충족시키는 것을 넘어서, 초과하는 것을 목표로 하며 노력하고 있습니다. 
 
 I aspire to be a developer deeply committed to understanding the user's perspective, never overlooking a single detail in my quest to enhance UX. By meticulously focusing on every aspect of user experience and continuously striving for improvement, I am dedicated to ensuring that every project not only meets but exceeds user expectations.
 
+### Contacts
+
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
+- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
+
+<br>
 
 ### Tools and Skills
 
@@ -34,6 +38,7 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
 
+<br>
 
 ### Projects
 
@@ -48,9 +53,5 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 - A personal integrated calendar/task management web application that allows users to check and manage multiple calendar schedules (Google/Outlook) and tasks (Asana) at once.
 
 
-### Contacts
-
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
-- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
 
 
