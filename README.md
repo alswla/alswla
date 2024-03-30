@@ -10,7 +10,6 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
 - [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
 
-<br>
 
 ### Tools and Skills
 
@@ -38,7 +37,6 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
 
-<br>
 
 ### Projects
 
