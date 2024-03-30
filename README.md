@@ -11,7 +11,7 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ### Tools and Skills
 
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/zustand-%2320232a.svg?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
