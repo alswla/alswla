@@ -1,4 +1,4 @@
-## <img width="600" height="auto" alt="banner" src="https://github.com/alswla/alswla/assets/133668286/2db1cd04-1542-45e1-bc18-5cf6637af767">
+<img width="600" height="auto" alt="banner" src="https://github.com/alswla/alswla/assets/133668286/2db1cd04-1542-45e1-bc18-5cf6637af767">
 
 
 유저의 입장에서 항상 고민하며, UX를 개선하기 위해 디테일 하나도 놓치지 않는 개발자가 되고 싶습니다.</br>
