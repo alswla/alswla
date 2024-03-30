@@ -6,13 +6,13 @@
 
 I aspire to be a developer deeply committed to understanding the user's perspective, never overlooking a single detail in my quest to enhance UX. By meticulously focusing on every aspect of user experience and continuously striving for improvement, I am dedicated to ensuring that every project not only meets but exceeds user expectations.
 
-### Contacts
+## Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
 
 
-### Tools and Skills
+## Tools and Skills
 
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -39,16 +39,16 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
 
 
-### Projects
+## Projects
 
-**2023**
+### 2023
 
-- [KrossCutting](https://github.com/orgs/KrossCutting/repositories) <br/>
-  : K-POP 아이돌의 무대영상을 자동으로 교차편집 해주는 웹/앱 어플리케이션. 
+### [KrossCutting](https://github.com/orgs/KrossCutting/repositories)
+- K-POP 아이돌의 무대영상을 자동으로 교차편집 해주는 웹/앱 어플리케이션. 
 - Krosscutting is an application that automatically creates cross-edits of K-POP idol stage videos.
   
-- [myJARVIS](https://github.com/myJARVIS-smarter-scheduling/myJARVIS-client) <br/>
-  : 여러 개의 캘린더 일정(Google/Outlook) 및 태스크(Asana)를 한번에 확인하고 관리할 수 있는 개인 통합 일정/태스크 관리 웹 어플리케이션. 
+### [myJARVIS](https://github.com/myJARVIS-smarter-scheduling/myJARVIS-client)
+- 여러 개의 캘린더 일정(Google/Outlook) 및 태스크(Asana)를 한번에 확인하고 관리할 수 있는 개인 통합 일정/태스크 관리 웹 어플리케이션. 
 - A personal integrated calendar/task management web application that allows users to check and manage multiple calendar schedules (Google/Outlook) and tasks (Asana) at once.
 
 
