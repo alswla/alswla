@@ -41,7 +41,7 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 
 ## Projects
 
-### 2023
+### 2024
 
 ### [KrossCutting](https://github.com/orgs/KrossCutting/repositories)
 - K-POP 아이돌의 무대영상을 자동으로 교차편집 해주는 웹/앱 어플리케이션. 
