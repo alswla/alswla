@@ -1,4 +1,6 @@
-<img width="600" height="auto" alt="banner" src="https://github.com/alswla/LeetCode/assets/133668286/56c7a678-97e9-402b-b836-176ad6306b62">
+<div align="center">
+  <img width="600" height="auto" alt="banner" src="https://github.com/alswla/LeetCode/assets/133668286/56c7a678-97e9-402b-b836-176ad6306b62">
+</div>  
 <br><br>
 
 유저의 입장에서 항상 고민하며, UX를 개선하기 위해 디테일 하나도 놓치지 않는 개발자가 되고 싶습니다.</br>
