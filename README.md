@@ -37,6 +37,7 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
 
+<br />
 
 ## Projects
 
