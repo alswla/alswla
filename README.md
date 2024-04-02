@@ -9,11 +9,7 @@
 
 I aspire to be a developer deeply committed to understanding the user's perspective, never overlooking a single detail in my quest to enhance UX. By meticulously focusing on every aspect of user experience and continuously striving for improvement, I am dedicated to ensuring that every project not only meets but exceeds user expectations.
 
-## Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:minji5064@gmail.com)
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link==https://www.linkedin.com/in/minji-han/)](https://www.linkedin.com/in/minji-han/)
-
+<br />
 
 ## Tools and Skills
 
