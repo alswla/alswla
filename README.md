@@ -13,9 +13,8 @@
 
 <br>
 
-Hello, I'm Minji(Chloe) Han, a developer dedicated to **enhancing "____ experience"**.
-
-Having worked in HR in the past, I understand the **importance of experience** through projects that improved customer and employee experiences. <br>
+Hello, I'm Minji(Chloe) Han, a developer dedicated to **enhancing experience**.
+I understand the **importance of experience** through projects that improved customer and employee experiences. <br>
 
 Moving beyond planning and analyzing user(customer, employee and so on) experience improvements,<br> 
 I became a developer to **directly lead and make enhancements in detail.**
