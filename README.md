@@ -34,7 +34,6 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 - 여러 개의 캘린더 일정(Google/Outlook) 및 태스크(Asana)를 한번에 확인하고 관리할 수 있는 개인 통합 일정/태스크 관리 웹 어플리케이션. 
 - A personal integrated calendar/task management web application that allows users to check and manage multiple calendar schedules (Google/Outlook) and tasks (Asana) at once.
 
-
 <br>
 
 ## Tools and Skills
