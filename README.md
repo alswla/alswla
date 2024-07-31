@@ -49,6 +49,7 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
 
 ![](https://img.shields.io/badge/tailwindCSS-06B6D4?style=flat-square&logo=tailwindCSS&logoColor=white)
 ![](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=tailwindCSS&logoColor=white)
@@ -56,8 +57,10 @@ I aspire to be a developer deeply committed to understanding the user's perspect
 ![](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB%20&%20Mongoose-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![](https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon-Web-Services&logoColor=white)
+![](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white)
 
 ![](https://img.shields.io/badge/react%20dom%20testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
