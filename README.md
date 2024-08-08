@@ -1,18 +1,3 @@
-<div align="center">
-  <img width="600" height="auto" alt="banner" src="https://github.com/alswla/LeetCode/assets/133668286/56c7a678-97e9-402b-b836-176ad6306b62">
-</div>  
-
-<br>
-
-안녕하세요, **경험을 개선하는 개발자** 한민지입니다.
-
-**고객, 내부직원, 사용자 등 다양한 경험** 개선을 기획하고 분석하는 것에서 더 나아가, 직접적으로 주도하고 하나하나 개선하고자 개발자가 되었습니다.
-
-유저의 입장에서 항상 고민하며, UX를 개선하기 위해 디테일 하나도 놓치지 않는 개발자가 되고 싶습니다.</br>
-사용자의 기대를 단순히 충족시키는 것을 넘어서, 초과하는 것을 목표로 하며 노력하고 있습니다. 
-
-<br>
-
 Hello, I'm Minji(Chloe) Han, a developer dedicated to **enhancing experience**.
 I understand the **importance of experience** through projects that improved customer and employee experiences.
 
