@@ -1,9 +1,6 @@
-Hello, I'm Minji(Chloe) Han, a developer dedicated to **enhancing experience**.
-I understand the **importance of experience** through projects that improved customer and employee experiences.
-
-Moving beyond planning and analyzing user(customer, employee and so on) experience improvements, I became a developer to **directly lead and make enhancements in detail.**
-
-I aspire to be a developer deeply committed to understanding the user's perspective, never overlooking a single detail in my quest to enhance UX. By meticulously focusing on every aspect of user experience and continuously striving for improvement, I am dedicated to ensuring that every project not only meets but exceeds user expectations.
+Hello, I'm Minji(Chloe) Han.
+I aim to become a software engineer who can design and develop services grounded in a deep understanding of user experience and convenience. 
+By thoroughly considering how users interact with the services, I strive to build solutions that are both effective and user-centered.
 
 <br>
 
