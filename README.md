@@ -1,8 +1,12 @@
+## About
+
 Hi, I'm Minji Han, a software engineer. Grounded in user-centered thinking and technical judgment, 
 I focus on solving problems practically to deliver better user experiences. 
 
 안녕하세요, 소프트웨어 엔지니어 한민지입니다. 
 사용자 중심 사고와 기술적 판단력을 바탕으로, 문제를 실용적으로 해결하며 더 나은 사용자 경험을 제공하려 노력하고 있습니다.
+
+<br>
 
 ## Projects
 
