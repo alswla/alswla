@@ -19,7 +19,7 @@ I focus on solving problems practically to deliver better user experiences.
 
 <br>
 
-### 2024
+### 2023 - 2024
 
 ### [KrossCutting](https://github.com/orgs/KrossCutting/repositories)
 - Krosscutting is an application that automatically creates cross-edits of K-POP idol stage videos.
